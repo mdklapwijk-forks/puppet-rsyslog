@@ -1,6 +1,6 @@
 {
   "name": "saz-rsyslog",
-  "version": "5.0.0",
+  "version": "5.0.0-patched",
   "author": "saz",
   "summary": "Manage rsyslog client and server",
   "license": "Apache-2.0",
